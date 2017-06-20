@@ -1,6 +1,6 @@
 {
     "Image": {
-        "xmlns":    "image.jpg",
+        "xmlns":    "./image.jpg",
         "Format":   "jpg", 
         "Overlap":  "2", 
         "TileSize": "512",
