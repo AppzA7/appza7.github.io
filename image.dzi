@@ -1,12 +1,12 @@
 {
     "Image": {
-        "xmlns":    "http://schemas.microsoft.com/deepzoom/2008",
+        "xmlns":    "https://s-media-cache-ak0.pinimg.com/originals/44/00/a1/4400a1dc996399e1c0114b25e61f2656.jpg",
         "Format":   "jpg", 
         "Overlap":  "2", 
         "TileSize": "256",
         "Size": {
-            "Height": "9221",
-            "Width":  "7026"
+            "Height": "1920",
+            "Width":  "1419"
         }
     }
 }
