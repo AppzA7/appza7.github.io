@@ -2,7 +2,7 @@
     "Image": {
         "xmlns":    "https://s-media-cache-ak0.pinimg.com/originals/44/00/a1/4400a1dc996399e1c0114b25e61f2656.jpg",
         "Format":   "jpg", 
-        "Overlap":  "2", 
+        "Overlap":  "1", 
         "TileSize": "256",
         "Size": {
             "Height": "1920",
